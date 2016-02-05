@@ -36,5 +36,7 @@ function kkvi_interagate_youtube($atts, $content = null){
 
 add_shortcode('youtube', 'kkvi_interagate_youtube');
 
+//sample
+// [youtube id="1SvyoC_0PRc" width="450" height="300" title="Test Video"]
 ?>
 
